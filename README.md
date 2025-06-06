@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there! 👋 I'm Isabel Saa
 
-<!--
-**isabelsaa/isabelsaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | Code Enthusiast | TDD/DDD Advocate
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on  
+- Building scalable microservices in Laravel  
+- Improving CI/CD pipelines for automated testing & deployment
+- Advocate for clean architecture & SOLID principles 
+
+### 💡 What I love  
+- Writing clean and testable code  
+- Designing APIs with great developer experience  
+- Exploring cloud-native technologies
+
+ ### ✨ Skills
+- PHP | C# | Laravel | Symfony  
+- MySQL| SQL server  
+- Docker | Kubernetes | AWS | Google cloud
+- Unit Testing | TDD | CI/CD
+- Team player
+- Pair programming
